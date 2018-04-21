@@ -31,4 +31,4 @@ global attributes:
                 :CourtesyOf = "The Center of Land Environmental and Atmospheric Research (CLEAR : http://clear.cris.org.lk)" ;
                 :DistributedBy = "Open Data Consortium Sri Lanka" ;
                 :Contact = "info@opendata.org.lk" ;
-                :URL = "http://www.opendata.org.lk" ;
+                :URL = "http://opendata.org.lk" ;
