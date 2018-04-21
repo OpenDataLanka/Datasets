@@ -1,4 +1,4 @@
-## List of datasets currently Opensourced by OpenData
+## List of datasets currently distributed by OpenData
 * [SRTM_dem_slope](https://storage.googleapis.com/leaf-data/raw_data/SRTM_dem_slope.nc4)
 * [geoland2_LAI](https://storage.googleapis.com/leaf-data/raw_data/geoland2_LAI.nc4)
 * [MCD15A2H.006_2002](https://storage.googleapis.com/leaf-data/raw_data/MCD15A2H.006_2002.nc4)
