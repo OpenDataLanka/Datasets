@@ -1,4 +1,8 @@
 ## List of datasets currently distributed by OpenData
+1. [Climate Data](#climate)
+2. [Crime Data](#crime)
+
+#### Climate Data<a name="climate">
 * [SRTM_dem_slope](https://storage.googleapis.com/leaf-data/raw_data/SRTM_dem_slope.nc4)
 * [geoland2_LAI](https://storage.googleapis.com/leaf-data/raw_data/geoland2_LAI.nc4)
 * [MCD15A2H.006_2002](https://storage.googleapis.com/leaf-data/raw_data/MCD15A2H.006_2002.nc4)
@@ -32,3 +36,13 @@ global attributes:
                 :DistributedBy = "Open Data Consortium Sri Lanka" ;
                 :Contact = "info@opendata.org.lk" ;
                 :URL = "http://opendata.org.lk" ;
+
+---
+#### Crime Data<a name="crime">
+
+* Suicide data from 2014 to 2017(Data from [Sri Lanka Police](https://www.police.lk/index.php/crime-trends))
+  - [Civil status of suicided people](Data/suicide_data/civil_status.csv)
+  - [Education levels of suicided people](Data/suicide_data/Education_level.csv)
+  - [Mode of suicides](Data/suicide_data/mode_of_suicides.csv)
+  - [Nature of occupation of suicided people](Data/suicide_data/nature_of_occupation.csv)
+  - [Reasons for suicides](Data/suicide_data/reasons_of_suicides.csv)
